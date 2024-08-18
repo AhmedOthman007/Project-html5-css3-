@@ -1,0 +1,170 @@
+
+.home{
+    background-image: url("images/firstpic.png.jpg");
+    
+    height: 900px;
+    width: 1500px;
+    box-shadow: 400px;
+}
+
+nav{
+    position: sticky;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.811);
+    display: flex;
+   
+}
+.h11{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+nav,h1{
+   color: white;
+   display: flex;
+   
+   
+   
+   }
+
+   h1{
+    margin-left: 10px;
+   }
+
+.center1{
+    margin-left: 300px;
+    
+}
+.cp1{
+    font-weight: bold;
+    font-size: 40px;
+}
+.bigword{
+    font-weight: bold;
+    font-size: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 20px;
+}
+.artcile{
+    font-size: 20px;
+   
+}
+
+
+
+
+.btn1{
+    
+    background-color: blue;
+    color: white;
+    padding: 20px 70px;
+    border-radius: 5%;
+}
+.par a{
+        padding: 10px;
+        color: white;
+    
+}
+.par{
+    color:antiquewhite;
+    display: flex;
+    margin-left: 350px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+}
+.par img{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+}
+
+
+.p2{
+    font-weight: bolder;
+    font-size: 40px;
+   
+}
+.p1,.p3{
+    font-size: 22px;
+}
+
+.top3{
+    display: flex;
+}
+.bottom3{
+    display: flex;
+}
+
+    
+
+
+.t2,.t1,.t3{
+    text-align: center;
+    padding: 65px;
+    margin-right: 150px;
+    background-color: rgba(174, 171, 174, 0.774);
+    margin-bottom: 50px;
+    margin-top: 50px;
+    width: 250px;
+   }
+ 
+ 
+  
+
+
+.b1,.b2,.b3{
+    text-align: center;
+    padding: 65px;
+    margin-right: 149px;
+    background-color: rgba(174, 171, 174, 0.774);
+    margin-bottom: 50px;
+
+} 
+.top3 img{
+    width: 100px;
+    height: 100px;
+}
+.bottom3 img{
+    width: 100px;
+    height: 100px;
+}
+a{
+    text-decoration: none;
+}
+
+
+
+
+.home1{
+    background-image: url("https://html.waituk.com/roxine/img/big-15.jpg");
+    height: 500px;
+    width: 1500px;
+    text-align: center;
+    
+}
+.home1 button{
+    color: white;
+    background-color: rgb(62, 62, 215);
+    padding: 15px 60px;
+    border-radius: 10px;
+}
+.pp1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 35px;
+    color: white;
+}
+.pp2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: azure;
+    font-size: 50px;
+}
+button:hover{
+    color: tomato;
+
+}
+a:hover{
+    color:aqua;
+}
